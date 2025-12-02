@@ -1,4 +1,6 @@
 END TO END DOMAIN BASED PROJECTS
+
+
 This repository contains a collection of domain-based data analytics projects built using SQL, Power BI, and Excel. Each project focuses on solving real-world business problems through data cleaning, analysis, and visualization.
 
 📂 What’s Inside
